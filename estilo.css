@@ -1,0 +1,66 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(to right, #FF4433, #FFF73C);
+	font-family: Arial;
+	font-size: 20px bold;
+	width: auto;
+}
+.box {
+	margin-top: 100px;
+	margin-left: 20%;
+	width: 600px;
+  	border: 2px solid red;
+  	padding: 75px;
+	height: 250px;
+	align-content: center;
+	background-color: #EBC17E;
+	border-radius: 20px;
+	color: red;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.loginarea {
+	text-align: center;
+}
+.loginarea input {
+	height: 30px;
+	border: 1px solid red;
+	border-radius: 20px;
+	background-color: #FFFEB2;
+}
+.loginarea button a {
+	color: red;
+	font-size: 20px bold;
+	text-decoration: none;
+}
+.loginarea input placeholder {
+	margin-left: 5px;
+}
+.img {
+	align-items: center;
+}
+.botao {
+	background: none;
+	border-radius: 25px;
+	border: 2px solid red;
+	color: red;
+	margin: 10px;
+	padding: 10px;
+	width: 100px;
+}
+.rodape {
+	margin: auto;
+	width: 50%;
+  	padding: 75px;
+  	text-align: center;
+  	align-content: center;
+  	color: white;
+	}
+
+.rodape a {
+	text-decoration: none
+}
+.rodape a img {
+	max-width: 15px;
+	text-decoration: none;
+}
